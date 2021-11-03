@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=dreambox🎨&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=dreambo&fontSize=70)
 
 <div align=center>
 
