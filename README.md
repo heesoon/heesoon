@@ -16,8 +16,6 @@
 * DRM (SecureMedia, Verimatrix, Pro:Idiom, CI/CI+ CAM)
 * Security Design and Platform Development
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chipmaker0304)](https://solved.ac/chipmaker0304/)
 
 <!--
@@ -31,4 +29,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chipmaker0304">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chipmaker0304)](https://solved.ac/chipmaker0304/)
+
 -->
