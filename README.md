@@ -1,6 +1,5 @@
 # 👋 Hi there!
 
------------------------
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chipmaker0304@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://chipmaker.tistory.com/)
@@ -16,7 +15,10 @@
 * DRM (SecureMedia, Verimatrix, Pro:Idiom, CI/CI+ CAM)
 * Security Design and Platform Development
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chipmaker0304)](https://solved.ac/chipmaker0304/)
+## Coding Practices
+<br>
+
+![chipmaker0304's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chipmaker0304)
 
 <!--
 **heesoon/heesoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
