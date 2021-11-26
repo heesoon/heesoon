@@ -6,7 +6,7 @@
 
 ## 💻 Who am I
 * Software Developer
-* Program Lanaguages
+* Interesting in Program Lanaguages
 * Interesting in Algorithm and Software Design Pattern
 
 ## 💻 Experiences
