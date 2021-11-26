@@ -17,7 +17,7 @@
 * Security Design and Platform Development
 
 ## 💻 Stack
-<br>
+
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -27,20 +27,12 @@
 <img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img alt="webOS" src ="https://img.shields.io/badge/webOS-gray?style=flat-square&logo=linux&logoColor=black"/>
 
-<br>
-
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> 
 <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 출처: https://byul91oh.tistory.com/214 [개발하는 감자 [: 개감]]
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> -->
-
-
-
-
-
-
 
 ## 💻 Coding Practices
 <br>
